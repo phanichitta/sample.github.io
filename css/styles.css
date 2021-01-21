@@ -1,0 +1,356 @@
+header{
+  position:fixed;
+  width:1350px;
+  background-color: #FFFFFF;
+}
+.logo{
+width:27%;
+height:50%;
+padding-left: 3.3rem;
+max-height: none;
+margin-left: -10px;
+margin-top: -15px;
+}
+.button1{
+  background-color: #EA782F;
+  margin-left: 85%;
+  margin-top: -5.5%;
+  color: white;
+  padding:1% 1.5% 1% 1.5%;
+  font-weight: bold;
+}
+.header-back {
+    background-image: linear-gradient(to right ,rgba(234, 121, 48), rgba(235, 211, 24),rgba(8, 173, 226));
+    width: 100%;
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: bold;
+    color: #FFFF5F;
+    background-color: #FFFFFF;
+}
+.active{
+	border-bottom: 40px solid #EA782F;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    height: 0;
+    width: 70px;
+}
+.nav-item{
+	padding: 10px 30px;
+	margin-top: 15px;
+}
+ .nav-link{
+/*margin-left:55px;*/
+padding: 0 !important;
+display: inline-block;
+/* margin-left:55px; */
+}
+.navbar{
+  color: #FFFFFF;
+font-family: 'Lato', sans-serif;
+font-weight:lighter;
+height: 30px;
+}
+.page1{
+  width:100%;
+  margin-top: 9.5%;
+}
+.page2{
+  width:100%;
+  margin-top: 2px;
+}
+.button2{
+  background-color: #EA782F;
+  margin-left: 30%;
+  margin-top: 1.2%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+
+}
+.button3{
+  background-color: #EA782F;
+  margin-left: 55%;
+  margin-top: -5.5%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+}
+.line1{
+  background-color: grey;
+	height: 1px;
+	margin-top: -1.55em;
+  margin-bottom: 0.5em;
+  margin-left:100px;
+  margin-right: auto;
+ }
+ .page3{
+   width:100%;
+   margin-top: 2.3px;
+ }
+ .page4{
+   width:100%;
+   margin-top: 0px;
+ }
+ .page5{
+   width:100%;
+   margin-top: 0px;
+ }
+ .page6{
+   width:100%;
+   margin-top: 0px;
+ }
+.page7{
+  width:100%;
+  margin-top: 90px;
+}
+.page8{
+  width:100%;
+  margin-top: -15px;
+}
+.button4{
+  background-color: #EA782F;
+  margin-left: 30%;
+  margin-top: 1.2%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+
+}
+.button5{
+  background-color: #EA782F;
+  margin-left: 55%;
+  margin-top: -5.5%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+}
+ .line2{
+   background-color: grey;
+ 	height: 1px;
+ 	margin-top: -1.55em;
+   margin-bottom: 0.5em;
+   margin-left:100px;
+   margin-right: auto;
+  }
+ .page9{
+   width:100%;
+   margin-top: -5px;
+ }
+ .line3{
+   background-color: grey;
+ 	height: 2px;
+ 	margin-top: 1.3em;
+   margin-bottom: 0.5em;
+   margin-left:100px;
+   margin-right: auto;
+  }
+  .page10{
+    width:100%;
+    margin-top: 20px;
+}
+.page11{
+  width:100%;
+  margin-top: -5px;
+}
+
+.button6{
+  background-color: #EA782F;
+  margin-left: 30%;
+  margin-top: 1.2%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+
+}
+.button7{
+  background-color: #EA782F;
+  margin-left: 55%;
+  margin-top: -5.5%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+}
+.line4{
+  background-color: grey;
+ height: 1px;
+ margin-top: -1.55em;
+  margin-bottom: 0.5em;
+  margin-left:100px;
+  margin-right: auto;
+ }
+ .page12{
+   width:100%;
+   margin-top: 35px;
+ }
+ .page13{
+   width:100%;
+   margin-top: -5px;
+ }
+ .page14{
+   width:100%;
+   margin-top: 70px;
+ }
+ .page15{
+   width:100%;
+   margin-top: 80px;
+ }
+h1{
+  font-weight: bold;
+  font-family: 'Noto Sans JP', sans-serif;
+    color: #CC6633;
+  font-size: 280%;
+  margin-top: 4%;
+  margin-left: 9%;
+}
+#downloads{
+  margin-top: 100px;
+}
+/*buttons*/
+.btn-1 {
+  text-align: left;
+  background-color: #00B6EC;
+  border: none;
+  color: white;
+  padding: 15px 100px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+.btn-blue:hover {
+  background-color: RoyalBlue;
+}
+.btn-2{
+  text-align: left;
+  background-color: #00B6EC;
+  border: none;
+  color: white;
+  padding: 17px 50px;
+  cursor: pointer;
+  font-size: 17px;
+  margin-top: -6.7%;
+  margin-left: 52%;
+}
+.btn-3 {
+  text-align: left;
+  background-color: #00B6EC;
+  border: none;
+  color: white;
+  padding: 12px 148px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 1%;
+  margin-left: 10%;
+}
+.btn-4 {
+  background-color:#F68B32;
+  border: none;
+  text-align: left;
+  color: white;
+  padding: 12px 72px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: -6%;
+  margin-left: 52%;
+}
+.btn-5 {
+  background-color: #F68B32;
+  border: none;
+  text-align: left;
+  color: white;
+  padding: 12px 121.5px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 1%;
+  margin-left: 10%;
+}
+.btn-6 {
+  background-color:#F68B32;
+  border: none;
+  text-align:left;
+  color: white;
+  padding: 12px 62px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: -6%;
+  margin-left: 52%;
+}
+.btn-7 {
+  background-color: #F68B32;
+  border: none;
+  color: white;
+  padding: 15px 79px;
+  cursor: pointer;
+  font-size: 15px;
+  margin-top: 1%;
+  margin-left: 10%;
+  text-align: left;
+}
+.btn-8 {
+  background-color:#F68B32;
+  border: none;
+  color: white;
+  padding: 12px 95px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: -5.5%;
+  margin-left: 52%;
+  text-align: left;
+}
+.btn-orange:hover {
+  background-color: orange;
+}
+.button8{
+  background-color: #EA782F;
+  margin-left: 43%;
+  margin-top: 4%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+}
+.line5{
+  background-color: grey;
+ height: 1px;
+ margin-top: -0.1em;
+  margin-bottom: 0.5em;
+  margin-left:100px;
+  margin-right: auto;
+ }
+ .page16{
+   width:100%;
+   margin-top: -5px;
+ }
+ .button9{
+   background-color: #EA782F;
+   margin-left: 40%;
+   margin-top: 3.5%;
+   padding-right: 40%;
+   color: white;
+   padding:1% 2% 1% 2%;
+   font-weight: bold;
+ }
+ .line6{
+   background-color: grey;
+   height: 1px;
+   margin-top: -0.1em;
+   margin-bottom: 0.5em;
+   margin-left:90px;
+   margin-right: auto;
+  }
+  h2{
+    font-weight: bold;
+    font-family: 'Noto Sans JP', sans-serif;
+      color: grey;
+    font-size: 200%;
+    margin-top: 3%;
+    margin-left: 9%;
+  }
